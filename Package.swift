@@ -10,6 +10,6 @@ let package = Package(
     targets: [
         .binaryTarget(name: "CSSH",
                       url: "https://github.com/zhangle/Libssh2Prebuild/releases/download/1.11.0-OpenSSL-1-1-1u/CSSH-1.11.0-OpenSSL-1-1-1u.xcframework.zip",
-                      checksum: "8aca563a37d19f72c9b0f1c46673793796065215299d2374553e805923408974")
+                      checksum: "104de5b88938c2abe3fed868e9de4a7c4b123342e926d3e0dad0f2be93721ddd")
     ]
 )
